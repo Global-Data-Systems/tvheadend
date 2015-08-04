@@ -1,5 +1,3 @@
-This is a local repository copy of the TVHEADEND repository that is stored to allow manipulation of additional items.
-
 Tvheadend
 ========================================
 (c) 2006 - 2015 Tvheadend Foundation CIC
